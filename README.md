@@ -24,7 +24,7 @@ With a growing interest in sports analytics, this project offers a structured da
 
 ## Data Source
 
-The project utilizes data from Kaggle [NFL-Statistics-Dataset](https://www.kaggle.com/datasets/kendallgillies/nflstatistics), which encompasses various files such as basic player statistics and career performance metrics.
+The project utilizes data from Kaggle [NFL-Statistics-Datasets](https://www.kaggle.com/datasets/kendallgillies/nflstatistics), which encompasses various files such as basic player statistics and career performance metrics.
 
 ## Data Structure
 
